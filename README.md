@@ -1,6 +1,6 @@
 # HastebinOSXService
 
-HastebinOSXService is a simple OSX workflow that simplifies the snippet upload to the minimum. To upload a new snippet, just select a piece of text, right-click it, select Services, and then hastebin, in a second, you should receive an notification and the snippet URL would be in your clipboard.
+HastebinOSXService is a simple OSX workflow that simplifies the snippet upload to the minimum. To upload a new snippet, just select a piece of text, right-click it, select Services, and then hastebin - in a second you should receive an notification and the snippet URL would be in your clipboard.
 
 ##Installing HastebinOSXService
 
